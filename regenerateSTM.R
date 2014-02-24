@@ -11,7 +11,6 @@
 
 ## REQUIRE
 require(rGithubClient)
-require(synapseClient)
 
 ## ACCESS THE CLEARSCIENCE REPO CODE USING THE GITHUB API
 ## The rGithubClient uses the Github API to facilitiate R talking to Github.
