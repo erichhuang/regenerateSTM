@@ -1,9 +1,9 @@
 ## regenerateSTM.R
 
 ## Erich S. Huang
-## Sage Bionetworks
-## Seattle, Washington
-## erich@post.harvard.edu
+## Duke University School of Medicine
+## Durham, NC
+## erich.huang@duke.edu
 
 ## A demonstration of how we can leverage multiple services
 ## to regenerate the figures and underlying data from the 
