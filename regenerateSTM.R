@@ -1,6 +1,8 @@
 ## regenerateSTM.R
 
 ## Erich S. Huang
+## Division of Translational Bioinformatics
+## Department of Biostatistics & Bioinformatics
 ## Duke University School of Medicine
 ## Durham, NC
 ## erich.huang@duke.edu
