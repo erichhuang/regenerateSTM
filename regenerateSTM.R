@@ -18,7 +18,7 @@ require(rGithubClient)
 ## The rGithubClient uses the Github API to facilitiate R talking to Github.
 ## First, we bring down the metadata for the code repository,
 
-stmRepo <- getRepo('sage-bionetworks/stm-metaanalysis-clearscience')
+stmRepo <- getRepo('erichhuang/stm-metaanalysis-clearscience', ref = 'branch', refName = 'mod')
 
 ## and then sequentially source in the code and execute it. 
 
