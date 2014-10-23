@@ -1,6 +1,7 @@
 ## Dig into the Provenance API
 ## Inspect "raw" provenance JSON
 require(RCurl)
+require(synapseClient)
 
 ## Use CURL and the REST API to get provenance JSON object for Figure 5
 getURL(file.path(synapseClient:::synapseServiceEndpoint("REPO")$endpoint, "activity/1767637"))
